@@ -1,0 +1,36 @@
+<svg height="526" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="526" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 09:27:47 +0000   146248 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 09:27:47 +0000     1282 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 09:27:47 +0000     7402 bytes  docs/overview.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 09:27:47 +0000     1199 bytes  lib/before.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 09:27:47 +0000     3064 bytes  lib/index.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 09:27:47 +0000     2924 bytes  package.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 09:27:47 +0000      920 bytes  templates/assets/favicon.ico</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 09:27:47 +0000   102445 bytes  templates/assets/js/dependencies/angular.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 09:27:47 +0000      300 bytes  templates/assets/robots.txt</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 09:27:47 +0000      874 bytes  templates/assets/styles/importer.less</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 09:27:47 +0000      464 bytes  templates/tasks/config/clean.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 09:27:47 +0000      689 bytes  templates/tasks/config/coffee.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 09:27:47 +0000      878 bytes  templates/tasks/config/concat.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 09:27:47 +0000     1127 bytes  templates/tasks/config/copy.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 09:27:47 +0000      759 bytes  templates/tasks/config/cssmin.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 09:27:47 +0000     1675 bytes  templates/tasks/config/jst.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 09:27:47 +0000      739 bytes  templates/tasks/config/less.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 09:27:47 +0000     8201 bytes  templates/tasks/config/sails-linker.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 09:27:47 +0000      776 bytes  templates/tasks/config/sync.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 09:27:47 +0000      468 bytes  templates/tasks/config/uglify.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 09:27:47 +0000      736 bytes  templates/tasks/config/watch.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 09:27:47 +0000     2938 bytes  templates/tasks/pipeline.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 09:27:47 +0000      882 bytes  templates/tasks/register/build.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 09:27:47 +0000      743 bytes  templates/tasks/register/buildProd.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 09:27:47 +0000      544 bytes  templates/tasks/register/compileAssets.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 09:27:47 +0000     1055 bytes  templates/tasks/register/default.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 09:27:47 +0000      674 bytes  templates/tasks/register/linkAssets.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 09:27:47 +0000      639 bytes  templates/tasks/register/linkAssetsBuild.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 09:27:47 +0000      660 bytes  templates/tasks/register/linkAssetsBuildProd.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 09:27:47 +0000      691 bytes  templates/tasks/register/prod.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 09:27:47 +0000      500 bytes  templates/tasks/register/syncAssets.js</tspan>
+</text>
+</svg>
